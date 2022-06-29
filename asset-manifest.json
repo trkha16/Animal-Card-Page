@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.c3336ec8.css",
-    "main.js": "/static/js/main.a93dbf27.js",
-    "static/js/787.150a0740.chunk.js": "/static/js/787.150a0740.chunk.js",
-    "static/media/2.jpg": "/static/media/2.1abdd8ce4dd4a3465ab3.jpg",
-    "static/media/5.jpg": "/static/media/5.fbce7f0a51d58155c4c9.jpg",
-    "static/media/1.jpg": "/static/media/1.70ceaa4c7a9c3006b2d7.jpg",
-    "static/media/4.jpg": "/static/media/4.075bb302ef4b9d1056d8.jpg",
-    "static/media/3.jpg": "/static/media/3.eae45dfe44b348771205.jpg",
-    "static/media/6.jpg": "/static/media/6.fe62a738ae1951d82901.jpg",
-    "index.html": "/index.html",
-    "main.c3336ec8.css.map": "/static/css/main.c3336ec8.css.map",
-    "main.a93dbf27.js.map": "/static/js/main.a93dbf27.js.map",
-    "787.150a0740.chunk.js.map": "/static/js/787.150a0740.chunk.js.map"
+    "main.css": "/Animal-Card-Page/static/css/main.c3336ec8.css",
+    "main.js": "/Animal-Card-Page/static/js/main.93ecb8eb.js",
+    "static/js/787.150a0740.chunk.js": "/Animal-Card-Page/static/js/787.150a0740.chunk.js",
+    "static/media/2.jpg": "/Animal-Card-Page/static/media/2.1abdd8ce4dd4a3465ab3.jpg",
+    "static/media/5.jpg": "/Animal-Card-Page/static/media/5.fbce7f0a51d58155c4c9.jpg",
+    "static/media/1.jpg": "/Animal-Card-Page/static/media/1.70ceaa4c7a9c3006b2d7.jpg",
+    "static/media/4.jpg": "/Animal-Card-Page/static/media/4.075bb302ef4b9d1056d8.jpg",
+    "static/media/3.jpg": "/Animal-Card-Page/static/media/3.eae45dfe44b348771205.jpg",
+    "static/media/6.jpg": "/Animal-Card-Page/static/media/6.fe62a738ae1951d82901.jpg",
+    "index.html": "/Animal-Card-Page/index.html",
+    "main.c3336ec8.css.map": "/Animal-Card-Page/static/css/main.c3336ec8.css.map",
+    "main.93ecb8eb.js.map": "/Animal-Card-Page/static/js/main.93ecb8eb.js.map",
+    "787.150a0740.chunk.js.map": "/Animal-Card-Page/static/js/787.150a0740.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3336ec8.css",
-    "static/js/main.a93dbf27.js"
+    "static/js/main.93ecb8eb.js"
   ]
 }
